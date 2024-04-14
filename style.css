@@ -1,0 +1,15 @@
+:root {
+    --cor-primaria: #546475;
+    --cor-secundaria: #356c9c;
+    --fonte-primaria: 'Helvetica Neue', sans-serif;
+    --padding-padrao: 8px;
+    --margem-padrao: 16px;
+}
+
+h1 {
+    background-color: var(--cor-primaria);
+    color: rgb(0, 0, 0);
+    font-family: var(--fonte-primaria);
+    padding: var(--padding-padrao);
+    margin: var(--margem-padrao);
+}
